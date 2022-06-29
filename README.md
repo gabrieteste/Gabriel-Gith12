@@ -1,3 +1,7 @@
+[currículoTeste.docx](https://github.com/Gabriel-Gith12/Gabriel-Gith12/files/9013684/curriculoTeste.docx)
+
+
+
 <div align="center">
   <a href="https://github.com/Gabriel-Gith12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Gith12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
