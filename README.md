@@ -1,6 +1,4 @@
-[currículoTeste.pdf](https://github.com/Gabriel-Gith12/Gabriel-Gith12/files/9205439/curriculoTeste.pdf)
-
-
+[currículo.pdf](https://github.com/Gabriel-Gith12/Gabriel-Gith12/files/9418862/curriculo.pdf)
 
 
 
