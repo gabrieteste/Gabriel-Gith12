@@ -2,7 +2,7 @@
 [currículo.pdf](httpsgithub.comGabriel-Gith12Gabriel-Gith12files9418862curriculo.pdf)
 
 div align=center
-  a href=httpsgithub.comGabriel-Gith12
+  a href=httpsgithub.com/Gabriel-Gith12
   img height=180em src=httpsgithub-readme-stats.vercel.appapiusername=Gabriel-Gith12&show_icons=true&theme=dark&include_all_commits=true&count_private=true
   img height=180em src=httpsgithub-readme-stats.vercel.appapitop-langsusername=Gabriel-Gith12&layout=compact&langs_count=7&theme=dark
       a
