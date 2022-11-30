@@ -7,22 +7,26 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Gith12&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
-div align=center valign=topbr
-  img align=center alt=Gabi-HTML height=30 width=40 src=httpsraw.githubusercontent.comdeviconsdeviconmastericonshtml5html5-original.svg
-  img align=center alt=Gabi-CSS height=30 width=40 src=httpsraw.githubusercontent.comdeviconsdeviconmastericonscss3css3-original.svg
-  img align=center alt=Gabi-Csharp height=30 width=40 src=httpsraw.githubusercontent.comdeviconsdeviconmastericonscsharpcsharp-original.svg
-  img align=center alt=Gabi-Vscode height=30 width=40 src=httpscdn.jsdelivr.netghdeviconsdeviconiconsvscodevscode-original.svg 
-  img align=center alt=Gabi-MySql height=30 width=40 src=httpscdn.jsdelivr.netghdeviconsdeviconiconsmysqlmysql-original.svg 
-  img align=center alt=Gabi-Git height=30 width=40 src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsgitgit-original.svg
-  img align=center alt=Gabi-GitHub height=35 width=35 src=assetsGitHub.png
-divbr
+<div align="center">
+  <img align="center" alt="Gabi-HTMLL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Gabi-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+   <img align="center" alt="Gabi-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+   <img align="center" alt="Gabi-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+   <img align="center" alt="Gabi-GitHub" height="30" width="40" src="assets/GitHub.png">
+</div>
+  
+##
 
-div align=center
-  a href=httpswww.facebook.comgabriel.camargo.7315 target=_blankimg src=httpsimg.shields.iobadgeFacebook-1877F2style=for-the-badge&logo=facebook&logoColor=white target=_blanka
-  a href=httpswww.instagram.comgabicamargo98 target=_blankimg src=httpsimg.shields.iobadge-Instagram-%23E4405Fstyle=for-the-badge&logo=instagram&logoColor=white target=_blanka
-  a href=httpswww.linkedin.comingabriel-camargo-4bb527216 target=_blankimg src=httpsimg.shields.iobadge-LinkedIn-%230077B5style=for-the-badge&logo=linkedin&logoColor=white target=_blanka 
-  a href=mailtogabriel.camargo421@gmail.comimg src=httpsimg.shields.iobadge-Gmail-%23333style=for-the-badge&logo=gmail&logoColor=white target=_blanka
-div
+<div align="center">
+    <a href="https://www.facebook.com/gabriel.camargo.7315/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/gabicamargo98" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gabriel-camargo-4bb527216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "gabriel.camargo421@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
+  
+##
 
 <div align="center">
  
