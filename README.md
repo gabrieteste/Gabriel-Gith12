@@ -24,8 +24,8 @@ div align=center
   a href=mailtogabriel.camargo421@gmail.comimg src=httpsimg.shields.iobadge-Gmail-%23333style=for-the-badge&logo=gmail&logoColor=white target=_blanka
 div
 
-div align=center
+<div align="center">
  
-  ![Snake animation](httpsgithub.comGabriel-Gith12Gabriel-Gith12bloboutputgithub-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Gabriel-Gith12/Gabriel-Gith12/blob/output/github-contribution-grid-snake.svg)
  
-div
+</div>
