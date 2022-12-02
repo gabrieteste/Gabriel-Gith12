@@ -1,5 +1,6 @@
+[currículo (1).pdf](https://github.com/Gabriel-Gith12/Gabriel-Gith12/files/10143580/curriculo.1.pdf)
 
-[currículo.pdf](httpsgithub.comGabriel-Gith12Gabriel-Gith12files9418862curriculo.pdf)
+
 
 <div align="center">
   <a href="https://github.com/Gabriel-Gith12">
